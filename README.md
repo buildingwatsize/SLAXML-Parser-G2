@@ -5,3 +5,5 @@ Subject: Selected Topics in Computer <br />
 Describe: Using Lua Language with SLAXML Library<br />
 Software: ZeroBrane Studio <br />
 Dataset: BookStore (XML) <br />
+
+Thanks Credit: Phrogz (https://github.com/Phrogz/SLAXML) <br />
